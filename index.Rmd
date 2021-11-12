@@ -29,5 +29,25 @@ Maestría en Ciencias Biológicas
 
 ## Contacto y redes sociales
 correo electrónico:acisseysan@gmail.com  
-![](./img/facebook_icon.png)Facebook: [Yessica Sánchez](https://www.facebook.com/acissey.zehcnas) 
+![](./img/facebook_icon.png)Facebook: [Yessica Sánchez](https://www.facebook.com/acissey.zehcnas)  
+Instagram:[Yessica Sánchez](https://www.instagram.com/acissey103/)  
+
+## Reporte  
+
+En este documento encontraras mi curriculum vitae.  
+Para ver el contenido hacer clic [aquí](./docs/curriculum.pdf)  
+Para ver el contenido hacer clic [aquí](./docs/CVU.pdf)  
+
+## Gráficas
+
+Histograma:
+
+```{r}
+hist(iris$Sepal.Length)
+```
+
+Plot:
+```{r}
+plot(iris$Sepal.Length, iris$Petal.Length, col = iris$Species)
+```
 
