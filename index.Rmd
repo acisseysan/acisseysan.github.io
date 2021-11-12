@@ -1,0 +1,31 @@
+---
+title: "Yessica Sánchez Ponce"
+--author: "Yessica Sánchez Ponce"
+--date: "11/12/2021"
+output: 
+  html_document:
+    theme: darkly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Datos personales
+
+Fecha de nacimiento: 10 de Marzo 1988  
+Edad:33 
+Nacionalidad:Mexicana  
+
+
+## Formación Académica
+Licenciatura en Biología
+2005-2011  
+Maestría en Ciencias Biológicas
+2015-2017  
+
+## Contacto y redes sociales
+correo electrónico:acisseysan@gmail.com  
+Facebook: Yessica Sánchez  
+
